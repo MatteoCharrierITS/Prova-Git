@@ -1,0 +1,13 @@
+Benvenuto nel mondo della programmazione!
+
+Questo è un file di testo semplice con alcune frasi random.
+
+Il cielo è blu e le stelle brillano di notte.
+La programmazione è divertente e creativa.
+Un viaggio di mille miglia inizia con un singolo passo.
+
+Oggi è una bella giornata per imparare qualcosa di nuovo.
+Il caffè è sempre una buona idea.
+La musica rende tutto migliore.
+
+Fine del testo.
